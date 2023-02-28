@@ -1,0 +1,11 @@
+.text{
+    text-align: center;
+    width: 100%;
+}
+.email{
+    color: #6495ED;
+}
+.img{
+    padding: 10px;
+    margin-bottom: 10px;
+}

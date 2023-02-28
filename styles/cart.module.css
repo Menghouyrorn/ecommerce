@@ -1,0 +1,14 @@
+.head{
+    border: 1px solid black;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    top: 20vh;
+    border-radius: 10px;
+}
+.image{
+    position: relative;
+    top: 20vh;
+}
